@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 
 
-[<img src="./tela.gif" alt="gif tela inicial">]
+<img src="./tela.gif" alt="gif tela inicial">
 
 ## Tecnologias utilizadas
 - HTML
@@ -12,7 +12,7 @@ Um projeto de teste com um arquivo README
 
 1 - Faça o clone o projeto
 ```
-git clone
+git clone <url>
 ```   
 2 - Acesse a pasta do projeto
 ```
